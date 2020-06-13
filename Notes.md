@@ -29,7 +29,7 @@
             -Way to overcome : might recognise wrong person that looks like you, as it is a **probabalistic** method. Attackers could get your fingerprints, and you cannot change yours so very dangerous comprimise.
     -2-factor/multi-factor authentication - An attacker may be able to guess your password or steal your phone, but it's a lot harder to do both.
 
--After authentication comes **access control** - When computer determines what you should be able to access.
+-After authentication comes **access control** - when the computer determines what you should be able to access.
 
     -Done through Access Control Lists (ACL), which describe what access each user has for every file, folder and program on a computer.
         -Read permission - Allows a user to only see the contents of a file.
