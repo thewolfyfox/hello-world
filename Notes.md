@@ -23,7 +23,7 @@
             -e.g. computers can test all 4 digit numbers in a fraction of a second, called a **brute force attack**.
             -Way to overcome : block attempts after 3 wrong attempts, or making sure lower-case letters, upper-case letters, numbers and special symbols are used.
         -"What you have" : based on the possession of a secret token only the real user has.
-            -e.g. physical key and lock. 
+            -e.g. physical key and lock.  
             -Way to overcome : can be compromised if there is a physical presence of the attacker, e.g. a key is stolen or copied.
         -"What you are" -  Authenticate by presenting yourself to the computer, e.g. biometrics.
             -Way to overcome : might recognise wrong person that looks like you, as it is a **probabalistic** method. Attackers could get your fingerprints, and you cannot change yours so very dangerous comprimise.
