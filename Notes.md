@@ -1,6 +1,6 @@
-#**Cybersecurity** 
+**Cybersecurity** 
 
--Cybersecurity - protects the secrecy, integrity and availability of computer systems and data against threats
+-Cybersecurity - protects the **secrecy, integrity and availability** of computer systems and data against threats
     
     -Integrity : Only authorized people should have ability to use or modify systems and data
       e.g. a hacker sending emails mascarading as you is an integrity attack
