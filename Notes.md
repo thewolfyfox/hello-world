@@ -5,9 +5,9 @@
 
 
 -Cybersecurity - protects the secrecy, integrity and availability of computer systems and data against threas
-    -**Integrity** : Only authorized people should have ability to use or modify systems and data
-      e.g. a hacker sending emails mascarading as you is an integrity attack
-    -**Availability** : An availability attack means that authorized people should have access to theiy systems and data
+    ***Integrity** : Only authorized people should have ability to use or modify systems and data
+      *e.g. a hacker sending emails mascarading as you is an integrity attack
+    ***Availability** : An availability attack means that authorized people should have access to theiy systems and data
       -e.g. A DoS (denial of service) attack overloads a website with fake requests to make it slow or unreachable for others
   -**Secrecy/confidentiality** : Only authorized people should be able to access/read specific computer systems or data
       -e.g. a breach in privacy when personal details are leaked is an attack on secrecy/confidentiality
