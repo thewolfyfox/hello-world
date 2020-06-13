@@ -9,12 +9,13 @@
     -Secrecy/confidentiality : Only authorized people should be able to access/read specific computer systems or data
       -e.g. a breach in privacy when personal details are leaked is an attack on secrecy/confidentiality
      
--Computers have no ethics - will execute any valid instruction!
+-Computers **have no ethics** - will execute any valid instruction!
 
 -Security experts start by profiling attackers with something called a **threat model**
     -Specifies their capabilities, goals and probabal means of attack.
 
 -**Authentication** used to differentiate between "right" and "wrong" people:
+    
     -There are 3 types:
         -**"What you know"** : Based off knowledgde that should only be known by the right user and the computer. e.g. username + password
             -Most common, as easiest to compliment. 
@@ -29,6 +30,7 @@
     -**2-factor/multi-factor authentication** - An attacker may be able to guess your password or steal your phone, but it's a lot harder to do both.
 
 -After authentication comes **access control** - When computer determines what you should be able to access.
+
     -Done through **Access Control Lists** (ACL), which describe what access each user has for every file, folder and program on a computer.
         -**Read** permission - Allows a user to only see the contents of a file.
         -**Write** permission - Allows a user to modify the contents of the file.
