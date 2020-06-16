@@ -1,6 +1,6 @@
 **Cybersecurity** 
 
--Cybersecurity - protects the **secrecy, integrity and availability** of computer systems and data against threats
+-**Cybersecurity** - protects the **secrecy, integrity and availability** of computer systems and data against threats
     
     -Integrity : Only authorized people should have ability to use or modify systems and data
       e.g. a hacker sending emails mascarading as you is an integrity attack
@@ -35,6 +35,32 @@
         -Read permission - Allows a user to only see the contents of a file.
         -Write permission - Allows a user to modify the contents of the file.
         -Execute permission - Allows a user to run the file.
+
+**Computer Object Recognition**
+
+    -Transport and Navigation
+            This could be useful for the future of travel such as self-driving cars that can recognise obects and respond accordingly.
+            Positives - Can avoid hazards such as a crossing pedestrian.
+            Drawbacks - Examples such as if knocking someone over is inevitable but you can swerve to hit another party, what party's life/lives are prioritised? 3 elderly people or 1 child? These moral questions raise problems to this day.
+
+
+    -Medicine and Healthcare
+            This could be useful inside the body, where breaks in bones and cancer cells can be detected.
+                Positives - With further development, can detect cancerous cells with ease.
+                Drawbacks  - Not fully developed at the moment, so isn't perfectly functioning and isn't used in "mainstream" hospitals, however with time could come big improvements.
+                
+                
+    -Gaming and Entertainment
+            Can be implemented in real time games where objects are recognised.
+                Positives - Will give an immersive game and an unprecedented experience.
+                Drawbacks - Would perhaps be too expensive too implement in an affordable console.
+                
+                
+    -Education and learning
+            Can be a good learning resource for young learners who are learning the names of objects.
+                Positives - A good way of making children enjoy identifying objects and leaning new words.
+                Drawbacks - Could be too expensive to implement in public primary schools in most countries.
+
             
             
             
