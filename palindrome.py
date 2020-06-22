@@ -5,6 +5,7 @@
 print ("Hi there")
 print ()
 print ("Please enter your word so that our PalindromeChecker 2000 can deduct whether it is a palindrome or not. (Hint: don't enter a number)")
+print()
 word = input()
 wordlist = list()
 for char in word:
