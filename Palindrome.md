@@ -5,8 +5,7 @@ You repeat this until there are no letters left, or if there is just 1 letter le
 
 
 The Python 3 code for this is as follows:
-
-"""print ("Hi there")
+print ("Hi there")
 print ()
 print ("Please enter your word so that our PalindromeChecker 2000 can deduct whether it is a palindrome or not. (Hint: don't enter a number)")
 word = input()
@@ -29,7 +28,6 @@ for b in wordlist:
 				print()
 				print ("This is a palindrome!")
 			break
-				"""
 				
     
     
