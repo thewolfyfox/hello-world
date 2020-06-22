@@ -61,6 +61,11 @@
                 Positives - A good way of making children enjoy identifying objects and leaning new words.
                 Drawbacks - Could be too expensive to implement in public primary schools in most countries.
 
+
+    -Travel and Tourism
+            Can be useful for recognising shapes in peoples' suitcases when crossing customs in airports.
+                Positives - Can identify common forbidden items such as knives or firearms.
+                Drawbacks - Forbidden items that can have different shapes or fill up their container, such as drugs or alcohol,                                would not be deteced.
             
             
             
